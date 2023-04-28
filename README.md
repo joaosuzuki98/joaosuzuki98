@@ -26,7 +26,7 @@
     <li>24 years old - I've been studying web development since 2019</li>
     <li>I'm self-taught student, currently learning desktop/mobile development</li>
     <li>I'm currently developing a little personal project called Brain Forge</li>
-    <li>I'm open to colaborate in any open source project or voluntary work</li>
+    <li>I'm open to collaborate in any open source project or voluntary work</li>
 </ul>
 
 <br>
