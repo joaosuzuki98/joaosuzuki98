@@ -10,25 +10,8 @@
 </h1>
 
 <p align="center">
-    I'm a developer from Brazil, currently studying at <a href="http://www.fatecsp.br/">Fatec</a>. I mostly code using <i>python</i>, <i>javascript</i>(and some of its frameworks) and <i>kotlin</i>, sometimes <i>bash</i> too. I'm open to collaborate in any open source project or voluntary work, so just hit me up.
+    I'm a developer from Brazil, currently studying at <a href="http://www.fatecsp.br/">Fatec</a>. I mostly code using <i>python</i>, <i>javascript</i> (and some of its frameworks) and <i>kotlin</i>, sometimes <i>bash</i> too. I'm open to collaborate in any open source project or voluntary work, so just hit me up.
 </p>
-<br>
-<br>
-
-<h2>
-    <span><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGU0YThhYjFmZTU3ODk2NWE2ZDUxMjk4MDg0NGI2NmQ1NThiNTJjYyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/2DUl6BtXGAx2uyqIas/giphy.gif" width="17"></span>
-    <b>About me</b>
-</h2>
-
-<br>
-
-<ul>
-    <li>24 years old - I've been studying web development since 2019</li>
-    <li>I'm self-taught student, currently learning desktop/mobile development</li>
-    <li>I'm currently developing a little personal project called Brain Forge</li>
-    <li>I'm open to collaborate in any open source project or voluntary work</li>
-</ul>
-
 <br>
 <br>
 
