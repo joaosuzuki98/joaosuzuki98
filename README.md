@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-    I'm a developer from Brazil, currently studying at <a href="http://www.fatecsp.br/">Fatec</a>. I mostly code using <i>python</i>, <i>javascript</i> (and some of its frameworks) and <i>kotlin</i>, sometimes <i>bash</i> too. I'm open to collaborate in any open source project or voluntary work, so just hit me up.
+    I'm a developer from Brazil, currently studying at <a href="http://www.fatecsp.br/">Fatec</a>. I mostly code using <i>python</i> and <i>javascript</i> (and some of its frameworks). I'm open to collaborate in any open source project or voluntary work, so just hit me up.
 </p>
 <br>
 <br>
